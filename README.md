@@ -13,7 +13,7 @@
 
 ###### 其他
 
-修改host就是避免解析的过程，大家可以 (https://www.ipaddress.com/)[https://www.ipaddress.com/] 自己设置加速。
+修改host就是避免解析的过程，大家可以 [https://www.ipaddress.com/](https://www.ipaddress.com/) 自己设置加速。
 
 - 就是查询域名的仓库
 - 然后修改host文件
