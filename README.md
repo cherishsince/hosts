@@ -5,6 +5,8 @@
 
 > 大家可以，一起提交，暂时解决的时 github 和 图片等一些问题。
 
+加速地址：github.com.cnpmjs.org
+
 
 ###### 个平台 host地址
 
